@@ -1,0 +1,19 @@
+{
+  "name": "7.5puppeteer2",
+  "version": "1.0.0",
+  "main": "net.test.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest",
+    "cucumber": "cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "puppeteer": "^24.1.0"
+  }
+}
